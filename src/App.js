@@ -1,9 +1,10 @@
-import DataToBackJS from './datepicker/DataToBack.js'
+import DataToBackJS from './DataToBack.js'
+import '../src/App.css'
 
 function App() {
   return (
     <div>
-      <DataToBackJS/>
+      <DataToBackJS />
     </div>
   );
 }

@@ -28,6 +28,28 @@
   color: #61dafb;
 }
 
+.centered-div-drop-down {
+  margin-top: 20px;
+  margin-left: 500px;
+}
+
+.centered-div-date-picker {
+  margin-top: 0px;
+  
+}
+.centered-div-pooper-date-picker {
+  margin-top: 0px;
+  margin-left: 400px;
+}
+
+.centered-button {
+  position: fixed;
+  top: 50ch;
+  margin-left: 95ch;
+  display: flex;
+  align-items: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
